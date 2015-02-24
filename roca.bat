@@ -1,0 +1,1 @@
+@"C:\Program Files\Java\jdk-latest\bin\java.exe" -jar target/RoCA-App-0.0.1-SNAPSHOT-jar-with-dependencies.jar

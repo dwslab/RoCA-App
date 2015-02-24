@@ -12,3 +12,6 @@ target/
 /pom.xml.releaseBackup
 /pom.xml.tag
 /release.properties
+/gurobi.log
+/model.lp
+/model.mps
