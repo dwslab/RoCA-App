@@ -9,3 +9,6 @@ target/
 *.synctex.gz
 *.tps
 .svn/
+/pom.xml.releaseBackup
+/pom.xml.tag
+/release.properties
