@@ -9,10 +9,11 @@
 
 	<modules>
 		<module>../abduction</module>
-		<module>../ai_utils</module>
+		<module>../ai-utils</module>
 		<module>../jgraphx</module>
 		<module>../rockit</module>
 		<module>../RoCA</module>
+		<module>../cplex-skeleton</module>
 	</modules>
 
 	<scm>
