@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>../abduction</module>
+		<module>../existential-rockit</module>
 		<module>../ai-utils</module>
 		<module>../jgraphx</module>
 		<module>../rockit</module>
